@@ -1,0 +1,2 @@
+https://ggoralski.gitlab.io/python-wprowadzenie/czesc_i/16-pliki/
+https://www.algorytm.edu.pl/pliki-tekstowe-w-python

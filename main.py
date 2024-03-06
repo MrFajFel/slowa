@@ -29,7 +29,7 @@ def nowe():
             if i == j:
                 wystapienia+=1
 
-            if i == j[::-1] and i != j:
+            if i.strip() == j[::-1].strip() and i != j:
                 wystapienia_lustrzane+=1
 
         print(f"{i.strip()} {wystapienia} {wystapienia_lustrzane}")
